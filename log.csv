@@ -1,0 +1,2 @@
+Epoch,Training Set Accuracy, Generalization Set Accuracy,Training Set MSE, Generalization Set MSE
+0,8.80095,22.4243,0.172375,0.133608
